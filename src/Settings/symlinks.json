@@ -1,0 +1,44 @@
+{
+    "Cases": {
+        "place": "src/Commands/Cases",
+        "alias": [
+            "cases",
+            "evalsh",
+            "runcode"
+        ]
+    },
+    "Kill": {
+        "place": "src/Functions/Kill",
+        "alias": [
+            "kill",
+            "sendmessage",
+            "sendraw",
+            "msg"
+        ]
+    },
+    "Colors": {
+        "place": "src/Functions/Colors",
+        "alias": [
+            "hex",
+            "rgb",
+            "color",
+            "colors",
+            "palette"
+        ]
+    },
+    "Updater": {
+        "place": "src/Functions/Updater",
+        "alias": [
+            "update",
+            "upgrade",
+            "version",
+            "release"
+        ]
+    },
+    "Fallback": {
+        "place": "src/Functions/Fallback",
+        "alias": [
+            "fallback"
+        ]
+    }
+}

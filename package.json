@@ -1,0 +1,43 @@
+{
+  "name": "nyx",
+  "version": "1.0.0",
+  "build_date": "08-09-2024",
+  "build_name": "snail",
+  "private": true,
+  "description": "O Projeto Nyx é um plugin opcional desenvolvido em Shell Scripting para o Projeto Íris. Este plugin possibilita a implementação de todas as funcionalidades Bash, incluindo o uso de programas como hacking, APT ou demais sistemas (desde que respeite o limite de caracteres do WhatsApp ~ 65K).",
+  "main": "run.sh",
+  "scripts": {
+    "start": "bash run.sh"
+  },
+  "author": "KillovSky",
+  "documentation": "https://github.com/KillovSky/Nyx/wiki",
+  "homepage": "https://github.com/KillovSky/Nyx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillovSky/Nyx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KillovSky/Nyx/issues"
+  },
+  "social": {
+    "github": "https://github.com/KillovSky",
+    "npm": "https://npmjs.com/~killovsky",
+    "other": "https://linktr.ee/killovsky"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "funding": [
+    {
+      "type": "kofi",
+      "url": "http://ko-fi.com/killovsky"
+    },
+    {
+      "type": "others",
+      "url": "https://linktr.ee/killovsky"
+    }
+  ],
+  "devDependencies": {},
+  "directories": {
+    "src": "src"
+  }
+}

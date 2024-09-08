@@ -1,0 +1,29 @@
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Arquivos de configuração local
+*.env
+
+# Arquivos de saída de compilação
+*.out
+*.err
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos de sistema específicos
+.DS_Store
+Thumbs.db
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
